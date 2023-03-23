@@ -5,6 +5,7 @@ export default function Home() {
     <div>
       <Head>
         <title>Webdev newz</title>
+        <meta name="keywords" content="web development" />
       </Head>
       <h1>Welcome to Next!!!</h1>
     </div>
